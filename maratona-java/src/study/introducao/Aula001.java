@@ -3,7 +3,7 @@ package study.introducao;
 /**
  * Cometário de Documentação {JavaDoc}
  */
-public class Main {
+public class Aula001 {
     public static void main(String[] args ) {
         //Comentário de uma linha
 
